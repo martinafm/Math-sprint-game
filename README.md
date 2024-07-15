@@ -14,7 +14,9 @@ Click [this](https://martinafm.github.io/Math-sprint-game/) link to see it live 
 
 ## Description
 
-This is the project in Zero To Mastery platform, which I did to practice my skills. 
+This is the project in Zero To Mastery platform, which I did to practice my skills.
+In this game there are 4 options with different number of questions: 10, 25, 50, and 99. The game involves marking whether the equation is true or false. The game is timed and saves the best score obtained using localStorage.
+
 
 ## Technologies Used
 
